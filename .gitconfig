@@ -1,0 +1,17 @@
+[user]
+        name = Carrie Willington
+        email = carrie@carriewillington.com
+        signingkey = 8982A0F32D1A43BD
+[core]
+        editor = vi
+[color]
+        status = auto
+        ui = true
+[commit]
+        gpgSign = true
+[alias]
+        jekyll = push deploy master
+        wtc = !git commit -m \"$(curl -s whatthecommit.com/index.txt)\"
+[gpg]
+        program = gpg
+

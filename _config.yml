@@ -1,0 +1,17 @@
+# Your Name
+title: Carrie Willington
+
+# Description of your website
+description: 
+
+# A brief blurb about yourself
+content: << Tilly
+
+# General settings
+url: https://carriewillington.com
+baseurl: "" 
+markdown: kramdown
+
+#### LAYOUT OPTIONS #####
+# Half layout
+half_side: right
